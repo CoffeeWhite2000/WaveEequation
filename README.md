@@ -17,7 +17,7 @@ $u(0,t)=\alpha (t),u(1,t)=\beta(t)$
 
 为此我们构造其差分格式，记
 
-$\Omega=|\{(x,t)|0<x<1,0<t<T\}|$
+$\Omega=|\{(x,t)|x\in [0,1],t\in [0,T]\}|$
 
 Step1 使用空间步长$\Delta x=\frac{1}{N}$，时间步长为$\Delta t=\frac{T}{M}$的网格线划分$\Omega$得到网格
 
