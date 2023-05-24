@@ -1,0 +1,2 @@
+# WaveEequation
+这里尝试使用python搭建一个计算一维波动方程的差分方法发求解器
