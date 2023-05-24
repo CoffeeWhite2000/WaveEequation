@@ -5,7 +5,7 @@
 
 方程：
 
-$u_{tt}-a^{2}\Detla u=f(x,t)$
+$u_{tt}-a^{2}\Delta u=f(x,t)$
 
 这里考虑一维的情况：
 
@@ -27,9 +27,9 @@ $\mathbb{J}$上$u,f,\varphi,\psi,\alpha,\beta$的取值分别记为$u_{ij},f_{ij
 
 Step2 采用中心差分公式：
 
-$\frac{\partial^2 u}{\partial x^2}|_{(x_i,t_j)}=\frac{u_{i-1,j}-2u_{i,j}+u_{i+1,j}}{\Delta x^2}$
+$\frac{\partial^2 u}{\partial x^2}=\frac{u_{i-1,j}-2u_{i,j}+u_{i+1,j}}{\Delta x^2}$
 
-$\frac{\partial^2 u}{\partial t^2}|_{(x_i,t_j)}=\frac{u_{i,j-1}-2u_{i,j}+u_{i,j+1}}{\Delta t^2}$
+$\frac{\partial^2 u}{\partial t^2}=\frac{u_{i,j-1}-2u_{i,j}+u_{i,j+1}}{\Delta t^2}$
 
 由此得到波动方程的差分格式：
 
