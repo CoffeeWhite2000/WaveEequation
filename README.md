@@ -23,7 +23,15 @@ Step1 使用空间步长$\Delta x=\frac{1}{N}$，时间步长为$\Delta t=\frac{
 
 $\mathbb{J}=\{(x_i,t_j)|(x_i,t_j)\in\bar{\Omega}\}$
 
-$\mathbb{J}$上$u,f,\varphi,\psi,\alpha,\beta$的取值分别记为$u_{ij},f_{ij},\varphi_{ij},\psi_{ij},\alpha_{ij},\beta_{ij}$
+$\mathbb{J}$
+
+上
+
+$u,f,\varphi,\psi,\alpha,\beta$
+
+的取值分别记为
+
+$u_{ij},f_{ij},\varphi_{ij},\psi_{ij},\alpha_{ij},\beta_{ij}$
 
 Step2 采用中心差分公式：
 
